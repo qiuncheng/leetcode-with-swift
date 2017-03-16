@@ -5,7 +5,8 @@ import UIKit
 var str = "Hello, playground"
 
 let solution = Solution()
-solution.strStr("12345661", "66")
+solution.strStr("👨🏿‍🎓👩🏻‍🏫👩🏻‍🏫", "👩🏻‍🏫")
+solution.strStr2("👨🏿‍🎓👩🏻‍🏫👩🏻‍🏫", "👩🏻‍🏫")
 
 
-"👨🏿‍🎓👩🏻‍🏫👩🏻‍🏫".sequences.count
+//"👨🏿‍🎓👩🏻‍🏫👩🏻‍🏫".sequences.count
