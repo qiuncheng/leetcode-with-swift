@@ -1,6 +1,6 @@
 import Foundation
 
-public class Solution: NSObject {
+public class Solution28: NSObject {
     /// Recommend by me. 比如这种字符串的处理 --> 👩🏻‍🏫
     public func strStr2(_ haystack: String, _ needle: String) -> Int {
         let needleSequence = needle.sequences
