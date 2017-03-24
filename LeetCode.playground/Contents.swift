@@ -22,3 +22,6 @@ solution15.threeSum([0,0,0])
 
 let sol = Solution67()
 sol.addBinary("111", "1111")
+
+let sol258 = Solution258()
+sol258.addDigits(12345)
